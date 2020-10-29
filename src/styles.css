@@ -1,0 +1,49 @@
+div.modal {
+	font-family: 'Roboto';
+}
+
+div.templatePage {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 160px;
+	margin-right: 160px;
+	padding: 14px 25px;
+	background-color: #d3d3d3;
+}
+
+div.mobileTemplatePage {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 260px;
+	margin-right: 260px;
+	padding: 14px 25px;
+	background-color: #d3d3d3;
+}
+
+div.desktop-icon {
+	text-align: center;
+}
+
+div.mobile-icon {
+	text-align: center;
+}
+
+div.back-icon {
+	margin-left: 10%;
+	}
+
+
+	
+
+a:link, a:visited {
+  color: gray;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Roboto';
+}
+
+a:hover, a:active {
+  background-color: #d3d3d3;
+}
